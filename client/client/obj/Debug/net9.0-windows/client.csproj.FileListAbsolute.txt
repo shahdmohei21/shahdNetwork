@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\FCI4.2\network_programing\Apps\projectNP\shahd\client\bin\Debug\net9.0-windows\client.exe
+C:\Users\DELL\Desktop\FCI4.2\network_programing\Apps\projectNP\shahd\client\bin\Debug\net9.0-windows\client.deps.json
+C:\Users\DELL\Desktop\FCI4.2\network_programing\Apps\projectNP\shahd\client\bin\Debug\net9.0-windows\client.runtimeconfig.json
+C:\Users\DELL\Desktop\FCI4.2\network_programing\Apps\projectNP\shahd\client\bin\Debug\net9.0-windows\client.dll
+C:\Users\DELL\Desktop\FCI4.2\network_programing\Apps\projectNP\shahd\client\bin\Debug\net9.0-windows\client.pdb
+C:\Users\DELL\Desktop\FCI4.2\network_programing\Apps\projectNP\shahd\client\obj\Debug\net9.0-windows\client.Form1.resources
+C:\Users\DELL\Desktop\FCI4.2\network_programing\Apps\projectNP\shahd\client\obj\Debug\net9.0-windows\client.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\FCI4.2\network_programing\Apps\projectNP\shahd\client\obj\Debug\net9.0-windows\client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\FCI4.2\network_programing\Apps\projectNP\shahd\client\obj\Debug\net9.0-windows\client.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\FCI4.2\network_programing\Apps\projectNP\shahd\client\obj\Debug\net9.0-windows\client.AssemblyInfo.cs
+C:\Users\DELL\Desktop\FCI4.2\network_programing\Apps\projectNP\shahd\client\obj\Debug\net9.0-windows\client.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\FCI4.2\network_programing\Apps\projectNP\shahd\client\obj\Debug\net9.0-windows\client.dll
+C:\Users\DELL\Desktop\FCI4.2\network_programing\Apps\projectNP\shahd\client\obj\Debug\net9.0-windows\refint\client.dll
+C:\Users\DELL\Desktop\FCI4.2\network_programing\Apps\projectNP\shahd\client\obj\Debug\net9.0-windows\client.pdb
+C:\Users\DELL\Desktop\FCI4.2\network_programing\Apps\projectNP\shahd\client\obj\Debug\net9.0-windows\client.genruntimeconfig.cache
+C:\Users\DELL\Desktop\FCI4.2\network_programing\Apps\projectNP\shahd\client\obj\Debug\net9.0-windows\ref\client.dll
